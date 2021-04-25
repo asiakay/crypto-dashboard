@@ -18,7 +18,7 @@ export default function App() {
   useEffect(() => {
     //connect to websocket api
     
-    ws.current = new WebSocket("wss://ws-feed-public.sandbox.pro.coinbase.com");
+    ws.current = new WebSocket("wss://ws-feed.pro.coinbase.com");
     // inside useEffect we need to make API with async function
     
     let pairs = [];

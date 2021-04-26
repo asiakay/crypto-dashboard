@@ -6,7 +6,7 @@ http://github.com - automatic!
 
 - [x] [ Adding Sass to Create React Applications ](https://scotch.io/starters/react/adding-sass-to-create-react-app-applications)
 
-
+- [x] [ Simple React Snippets - VSCode Extension ](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 Resources Used
 - [x][](Noto Serif Google Font)

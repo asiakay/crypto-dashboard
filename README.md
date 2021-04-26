@@ -1,7 +1,11 @@
 # Real-time Cryptocurrency Dashboard
 
+http://github.com - automatic!
+- [x] [ Noto Serif ](https://fonts.google.com/share?selection.family=Noto%20Serif:wght@700)
+
+
 Resources Used
-- [x][https://fonts.google.com/share?selection.family=Noto%20Serif:wght@700](Noto Serif Google Font)
+- [x][](Noto Serif Google Font)
 
 
 

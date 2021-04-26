@@ -1,5 +1,10 @@
 # Real-time Cryptocurrency Dashboard
 
+Resources Used
+- [x]https://fonts.google.com/share?selection.family=Noto%20Serif:wght@700(Noto Serif Google Font)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

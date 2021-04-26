@@ -1,4 +1,6 @@
 import { Line } from "react-chartjs-2";
+// import Button from '@material-ui/core/Button';
+
 
 function Dashboard({ price, data }) {
     const opts = {
@@ -10,7 +12,8 @@ function Dashboard({ price, data }) {
         maintainAspectRatio: false
     };
     if (price === "0.00") {
-        return <h2>please select a currency pair</h2>;
+        return <div>
+            <h2>Please... Select a currency pair!</h2>;</div>
     }
     return (
         <div className="dashboard">

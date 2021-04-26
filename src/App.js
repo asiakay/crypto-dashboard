@@ -1,9 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
-import Dashboard from "./components/Dashbboard";
+import Dashboard from "./components/Dashboard";
 import { formatData } from "./utils";
-import "./styles.css"; 
-
-
+import "./styles.css";
+ 
 
 export default function App() {
   const [currencies, setcurrencies] = useState([]);
@@ -118,18 +117,18 @@ const handleSelect = (e) => {
     <div className="container">
       {
       <select name="currency" value={pair} onChange={handleSelect}>
-        {currencies.map((cur, idx) => {
-          return (
-            <option key={idx} value={cur.id}>
-            {cur.display_name}
-            </option>
-        );
-        })}
+        {currencies.map((cur, idx) => 
+            {
+          return (<option key={idx} value={cur.id}>
+              {cur.display_name}
+                </option>);}
+        )}
       </select>
-    }
-    <Dashboard price={price} data={pastData} />
+      }
+      <Dashboard price={price} data={pastData} />
     </div>
-  );
+
+  ); 
 }
 
 

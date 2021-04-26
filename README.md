@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Real-time Cryptocurrency Dashboard
+
+http://github.com - automatic!
+
+- [x] [ Noto Serif ](https://fonts.google.com/share?selection.family=Noto%20Serif:wght@700)
+
+- [x] [ Adding Sass to Create React Applications ](https://scotch.io/starters/react/adding-sass-to-create-react-app-applications)
+
+- [x] [ Simple React Snippets - VSCode Extension ](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+
+- [x] [ The ES7 React/Redux/GraphQL/React-Native Snippets Extension ](https://marketplace.visualstudio.com/itemdetails?itemName=dsznajder.es7-react-js-snippets)
+
+Resources Used
+- [x][](Noto Serif Google Font)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

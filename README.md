@@ -13,6 +13,8 @@ http://github.com - automatic!
 - [x] [ Simple React Snippets - VSCode Extension ](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 - [x] [ The ES7 React/Redux/GraphQL/React-Native Snippets Extension ](https://marketplace.visualstudio.com/itemdetails?itemName=dsznajder.es7-react-js-snippets)
+- [x] [ Creating a Production Build ](https://create-react-app.dev/docs/production-build/)
+
 - [x] [ How to deploy React app to Heroku ](https://www.educative.io/edpresso/how-to-deploy-react-app-to-heroku)
 
 

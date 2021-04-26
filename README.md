@@ -1,7 +1,11 @@
 # Real-time Cryptocurrency Dashboard
 
 http://github.com - automatic!
+
 - [x] [ Noto Serif ](https://fonts.google.com/share?selection.family=Noto%20Serif:wght@700)
+
+- [x] [ Adding Sass to Create React Applications ](https://scotch.io/starters/react/adding-sass-to-create-react-app-applications)
+
 
 
 Resources Used

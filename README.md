@@ -2,6 +2,10 @@
 
 http://github.com - automatic!
 
+- [x] [ Express ](https://expressjs.com/)
+
+- [x] [ Chart.js ](https://www.chartjs.org/docs/latest/)
+
 - [x] [ Noto Serif ](https://fonts.google.com/share?selection.family=Noto%20Serif:wght@700)
 
 - [x] [ Adding Sass to Create React Applications ](https://scotch.io/starters/react/adding-sass-to-create-react-app-applications)

@@ -1,6 +1,6 @@
 # Real-time Cryptocurrency Dashboard
 
-http://github.com - automatic!
+
 
 ## Frontend 
 

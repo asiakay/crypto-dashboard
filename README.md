@@ -24,7 +24,7 @@
 
 ### Additional Project Resources
 
-- [x] [ Medium - Build a cryptocurrency dashboard with React) (https://codeburst.io/build-a-cryptocurrency-dashboard-with-react-d9e476de91ef)
+- [x] [ Medium - Build a cryptocurrency dashboard with React ](https://codeburst.io/build-a-cryptocurrency-dashboard-with-react-d9e476de91ef)
 
 - [x] [ Simple React Snippets - VSCode Extension ](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 

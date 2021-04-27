@@ -16,7 +16,15 @@
 
 - [x] [ Express ](https://expressjs.com/)
 
-### Additional Resources
+- [x] [ Coinbase API docs ](https://docs.pro.coinbase.com/)
+
+- [x] [ WebSocket Client & Server Implementation for Node](https://www.npmjs.com/package/websocket) 
+
+
+
+### Additional Project Resources
+
+- [x] [ Medium - Build a cryptocurrency dashboard with React) (https://codeburst.io/build-a-cryptocurrency-dashboard-with-react-d9e476de91ef)
 
 - [x] [ Simple React Snippets - VSCode Extension ](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
@@ -25,6 +33,12 @@
 - [x] [ Creating a Production Build ](https://create-react-app.dev/docs/production-build/)
 
 - [x] [ How to deploy React app to Heroku ](https://www.educative.io/edpresso/how-to-deploy-react-app-to-heroku)
+
+- [x] [ hub: an extension to command-line git ](https://hub.github.com/)
+
+- [x] [ Homebrew: The Missing Package Manager for macOS (or Linux) ](https://brew.sh/)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

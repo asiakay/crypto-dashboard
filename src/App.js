@@ -29,10 +29,10 @@ export default function App() {
       .then((data) => (pairs = data));
 
       //coinbase returns over 120 current=cie and this will
-      // filter to only BTC based pairs
+      // filter to only USD based pairs
       // eslint-disable-next-line array-callback-return
       let filtered = pairs.filter((pair) => {
-        if (pair.quote_currency === "BTC") {
+        if (pair.quote_currency === "USD") {
           return pair;
         }
       });

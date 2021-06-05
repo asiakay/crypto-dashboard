@@ -13,7 +13,7 @@ function Dashboard({ price, data }) {
     };
     if (price === "0.00") {
         return <div>
-            <h2>Please... Select a currency pair!</h2>;</div>
+            <h2>Please... Select a currency pair!</h2></div>;
     }
     return (
         <div className="dashboard">
